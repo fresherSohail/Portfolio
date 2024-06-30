@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Sohail's Portfolio</title>
+<link href="file:///C:/Users/Lenovo/Downloads/favicon_io/android-chrome-192x192.png" rel="icon" type="image/png">
+<link href="Portfolio.css" rel="stylesheet" type="text/css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playwrite+ES+Deco:wght@100..400&family=Playwrite+US+Modern:wght@100..400&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="division">
+
+<div class="div1">
+<img src="https://images.unsplash.com/photo-1497215842964-222b430dc094?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="1500px" height="720px">
+</div>
+
+
+<div class="heading">
+<ul>
+<span><img src="https://images.unsplash.com/photo-1586822339087-80cc375ac083?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100px"/></span>
+<li><a href="#">Home</a></li>
+<li><a href="#">Work</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+</div>
+
+<div class="Intro">
+<p>I'M Sohail. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a programmer.....</p>
+</div>
+
+</div>
+
+<div class="division2">
+<img src="https://images.unsplash.com/photo-1586822339087-80cc375ac083?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="80px"/>
+<center>
+<p><b><span style="color:gold; font-family:Playwrite US Modern; font-size: 25px">Hi,</span></b><br>I'm a web designer / developer based in India, Mumbai.<br>I have a passoion for web design and love<br>to create for web and mobile apps</p>
+</center>
+</div>
+
+<div class="division3">
+<div id="first">
+<a href="#"><img src="file:///C:/Users/Lenovo/Downloads/android.png" width="200px" height="200px"/></a>
+<p><b>Androids Apps</b><br><br>I have a good knowledge aobut android app<br>development, and I have made the app for my last year<br>project to my college. 'DBCA'</p>
+</div>
+
+<div id="second">
+<a href="#"><img src="file:///C:/Users/Lenovo/Downloads/web-development.png" width="200px" height="200px"/></a>
+<b><p>Web Development</b><br><br>I have made 3 to 4 Web based project and I have very<br>strong knowledge about web development.</p>
+</div>
+
+<div id="third">
+<a href="#"><img src="http://zerotoismail.com/images/desktop-app.png" width="200px" height="200px"/></a>
+<b><p>Desktop Application</b><br><br>Desktop application is one of the common application.</p>
+</div>
+
+</div>
+
+<div class="division4">
+<center>
+<b><p>Programming language i know</p></b>
+<ul>
+<li><img src="http://zerotoismail.com/images/androidi.png" width="70px"></li>
+<li><img src="http://zerotoismail.com/images/c-sharp.png" width="70px"></li>
+<li><img src="http://zerotoismail.com/images/java.png" width="70px"></li>
+<li><img src="http://zerotoismail.com/images/javascript.png" width="70px"></li>
+<li><img src="http://zerotoismail.com/images/mysql.png" width="70px"></li>
+<li><img src="http://zerotoismail.com/images/php.png" width="70px"></li>
+<li><img src="http://zerotoismail.com/images/react.png" width="70px"></li>
+<li><img src="http://zerotoismail.com/images/sql.png" width="70px"></li>
+</ul>
+</center>
+</div>
+
+<div class="division5">
+<h2><span style="font-size:40px">W</span>hat <span style="font-size:40px">I</span> <span style="font-size:40px">C</span>an <span style="font-size:40px">D</span>o.</h2>
+<div id="div1"><img src="http://zerotoismail.com/images/design.png" width="120px">
+<h3>Design what you want.</h3>
+<p>I like to keep it simple. My goals are to focus on<br>typography, content and conveying the message that<br>you want to send.</p>
+</div>
+
+<div id="div2"><img src="http://zerotoismail.com/images/develop.png" width="120px">
+<h3>Develop what you need.</h3>
+<p>I'm a developer, so I know how to create your website<br>to run across devices using the latest technologies<br>available.</p>
+</div>
+</div>
+
+<div class="division6">
+<h2><b>Get In Touch</b></h2>
+
+<div id="email">
+<a href="#"><img src="http://zerotoismail.com/images/gmail.png" width="20px" height="20px"/></a>
+<b><p>Email Id: </b><br>sohail271201@gmail.com / snowpiercerrr0@gmail.com.</p>
+</div>
+
+<div id="contact">
+<a href="#"><img src="http://zerotoismail.com/images/phone.png" width="20px" height="20px"/></a>
+<b><p>Phone No: </b><br> 8850599532</p>
+</div>
+
+<div id="Address">
+<a href="#"><img src="http://zerotoismail.com/images/map.png" width="20px" height="20px"/></a>
+<b><p>Address: </b><br>A.H wadia High School, Azad Nagar, Andheri west</p>
+</div>
+</div>
+
+<div class="division7">
+<center>
+<ul>
+<li><a href="#"><img src="http://zerotoismail.com/images/linkedin.png" width="20px"></a></li>
+<li><a href="#"><img src="http://zerotoismail.com/images/twitter.png" width="20px"></a></li>
+<li><a href="#"><img src="http://zerotoismail.com/images/instagram.png" width="20px"></a></li>
+</ul><br>
+<p>Copyright © 2020 All rights reserved</p>
+</center>
+</div>
+
+
+</body>
+</html>
